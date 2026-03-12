@@ -99,6 +99,14 @@ Any `print()` after `setup_autologger()` is logged.
 - Uses a single log file (no rotation yet).
 
 ---
+## Contributing
+Contributions, ideas, and bug reports are very welcome!
+
+- ⭐ Star this repository if you like the project.
+- 🐛 Open an issue for bugs or feature requests.
+- 🔧 Open a pull request to add improvements or new features.
+
+---
 
 ## Development
 
@@ -108,7 +116,6 @@ cd print-autologger
 pip install -e .
 python example.py
 ```
-
 ---
 
 ## License
