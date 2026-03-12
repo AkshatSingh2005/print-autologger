@@ -10,8 +10,8 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-  {name = "Your Name", email = "you@example.com"}
+  {name = "Akshat Singh", email = "codeakshatsingh@gmail.com"}
 ]
 
 [project.urls]
-Homepage = "https://github.com/<your-username>/autologger"
+Homepage = "https://github.com/AkshatSingh2005/autologger"
